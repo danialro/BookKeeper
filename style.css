@@ -1,0 +1,10 @@
+.container {
+	text-align: left;
+	width: 100px;
+	display: inline;
+	float: left;
+}
+
+.container input {
+	clear: both;
+}
